@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Jorge Alvarez Correa, te invito a ver los repositorios disponibles.
+- 👋 Hola, repositorio perteneciente a: Jorge Alvarez C.
 - Este perfil posee repositorios asociados a minería subterránea y otros.
 - Para contactar conmigo enviar un correo electronico a: jorge.e.alvarez.c@gmail.com
 
